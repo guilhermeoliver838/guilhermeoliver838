@@ -4,7 +4,7 @@
 <p align="center">
 
 #
-- 💻Estudante de Análise e Desenvolvimento de Sistemas
+- 💻Formado em Análise e Desenvolvimento de Sistemas
 - 🎸Sou Músico nas horas vagas
 - 📱Amo tecnologia
 
