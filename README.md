@@ -22,9 +22,11 @@
 ##
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermeoliver838&theme=transparent&bg_color=0000&border_color=0000&show_icons=true&icon_color=0FBDF2&title_color=0FBDF2&text_color=FFF">
-<img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermeoliver838&layout=compact&bg_color=0000&border_color=0000&title_color=0FBDF2&text_color=FFF">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermeoliver838&theme=transparent&bg_color=0000&border_color=0000&show_icons=true&icon_color=0FBDF2&title_color=0FBDF2&text_color=FFF" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoliver838&layout=compact&bg_color=0000&border_color=0000&title_color=0FBDF2&text_color=FFF" />
 </div>
+
+<br>
 
 ## Contatos
 
